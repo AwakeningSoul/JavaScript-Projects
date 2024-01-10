@@ -1,1 +1,1 @@
-<h1>This repository is for my JavaScript Projects</h1>
+<h1>JavaScript Projects</h1>
